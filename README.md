@@ -1,2 +1,2 @@
 Github link:-https://github.com/1707akash/Media-queries-
-Hosted link- 
+Hosted link- https://1707akash.github.io/Media-queries-/
